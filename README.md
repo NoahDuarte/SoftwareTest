@@ -1,1 +1,9 @@
 # SoftwareTest
+
+How can I ensure that my code, program, or software is functional and secure?
+  to ensure that your code, progrtam, or software is functional and secure, you should concider following secure coding guidelines. If you commit to using secure coding practices it will minimize vulnerabilities and potential security risks. Some guidelines to consider include validating and ansitizing user inputs to prevent input-based attacks like SQL injection. Use parameterized queries or prepared  statments to prevent attacks. Apply least privilege principles, granting only necessary permissions to users. 
+How do I interpret user needs and incorporate them into a program?
+  Interpreting user needs and incorporation them into a program requires effective communication, understanding, and collaboration with 
+  the users or stakeholders. Some ways to achieve this is to engage with users/stakeholders and initiate converstaions and meetings with the users or stakeholders to understand their needs, goals, and expectaions. Ask relevant questions to elicit detailed information about the user's reqquirements. Seek clarification when needed toensure a through understanding. Throughly document user requirements to capture the information gathered during discovery. 
+How do I approach designing software?
+  Approaching the design of software invloves a systematic and iterative process that focuses on understanding requirements, organizing components, and creating a blueprint for the software solution. Some steps to help guide a developer is to understand the problem that is attempting to be solved, indentigy key components, define the architecture, and apply desing principles. The foundation to desinging a successful program is collecting and well documenting requirements during discovery. As well as market research for potential compeitor applications and/or any regulatory laws that may need complying with during development. 
